@@ -4,7 +4,7 @@
 **Lab 1 Results:** 
 - 20 rolls
 - if we roll dice 20 times, and you get number **6** three or four times, dice considered fair.
-- if we roll dice 20 times, and you get number **6** less than three or more than four times, dice considered unfair.
+- if we roll dice 20 times, and you get number **6** less than _three or more than four times_, dice considered unfair.
 - if we roll dice 20 times, and you get number **1 and 6** (or any opposites of each other) same amout of times, dice considered fair.
 
 **In class experiment**
