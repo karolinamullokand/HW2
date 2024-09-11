@@ -8,6 +8,7 @@
 - if we roll dice 20 times, and you get number **1 and 6** (or any opposites of each other) same amout of times, dice considered fair.
 
 _In class experiment_ 
+
 |1.| 1| 11.|5|
 |2.| 3|12.|1|
 |-|-|-|-|
