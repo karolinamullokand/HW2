@@ -7,7 +7,7 @@
 - if we roll dice 20 times, and you get number **6** less than three or more than four times, dice considered unfair.
 - if we roll dice 20 times, and you get number **1 and 6** (or any opposites of each other) same amout of times, dice considered fair.
 
-_In class experiment_ 
+**In class experiment**
 
 |1.| 1| 11.|5|
 |---|---|---|---|
@@ -20,3 +20,4 @@ _In class experiment_
 |8.|6|18.|6|
 |9.|4|19.|3|
 
+20% average chance to get a number **6** by our rules
