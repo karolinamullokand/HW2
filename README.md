@@ -19,5 +19,6 @@
 |7.|4|17.|5|
 |8.|6|18.|6|
 |9.|4|19.|3|
+|10.|6|20.|3|
 
 20% average chance to get a number **6** by our rules
