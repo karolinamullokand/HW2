@@ -1,5 +1,5 @@
 # HomeWork2
-**Study Group:** _Karolina Mullokand and Jarmaine_
+**Study Group:** _Karolina Mullokand and Jermaine_
 
 **Lab 1 Results:** 
 - [ ] 20 rolls
