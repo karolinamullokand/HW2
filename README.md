@@ -22,7 +22,7 @@
 |10.|6|20.|3|
 
 > [!NOTE]
-> 20% average chance to get a number **6** by our rules
+> 20% chance to get a number **6** by our rules
 
 
 
