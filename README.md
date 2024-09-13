@@ -25,7 +25,7 @@
 > 20% chance to get a number **6** by our rules
 
 
-Experiment ![image](https://github.com/user-attachments/assets/ed95a3cb-5b18-4ddd-a237-8a90f906b012)
+Experiment 
 
 
 > [!CAUTION]
