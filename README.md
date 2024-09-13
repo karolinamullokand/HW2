@@ -25,7 +25,7 @@
 > 20% chance to get a number **6** by our rules
 
 
-Experiment 
+2. PLease find file attached for the Experiment HW2
 
 
 > [!CAUTION]
